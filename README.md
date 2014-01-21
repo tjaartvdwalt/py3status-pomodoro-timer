@@ -17,3 +17,4 @@ To reset the time *right click* on the pomodoro module.
 ## Planned improvements
 * Implement a *pause* feature.
 * Currently the time only updates when i3status refreshes (for me thats every 5 seconds). For my clock I used a workaround  so that it counts every second (I have forgotten the exact details of how this works). I want to investigate if it is possible to use a similar solution for the pomodoro timer. 
+* I would like to have some simple way to log your time(pomodoros). I really like [gtimelog](http://mg.pov.lt/gtimelog/), maybe I will try to log pomodoros in the gtimelog format.
