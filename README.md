@@ -1,6 +1,10 @@
 # py3status-pomodoro-timer
 A [pomodoro](http://pomodorotechnique.com/) timer for [i3status](http://i3wm.org/i3status/manpage.html) using [py3status](https://github.com/ultrabug/py3status) 
 
+**NOTE: THIS PLUGIN IS NOW OBSOLETE**
+
+Since I first wrote this plugin, I have stopped using the pomodoro technique. Py3status has also changed their code base so that users can contribute modules. Someone has contributed a [pomodoro module](https://github.com/ultrabug/py3status/blob/master/py3status/modules/pomodoro.py) and I suggest you use this one instead.
+
 ## Installation
 Firstly you need py3status configured for i3status. The process is descibed [here](https://github.com/ultrabug/py3status).
 Copy the python script [pomodoro.py](https://raw.github.com/tjaartvdwalt/py3status-pomodoro-timer/master/pomodoro.py) to your py3status directory. (For me it is located at `~/.i3/i3status`)
